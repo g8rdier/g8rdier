@@ -1,5 +1,4 @@
-"A clever person solves a problem. A wise person avoids it."
-- Albert Einstein
+"When in doubt, use brute force." [Ken Thompson]
 
 <!--
 **g8rdier/g8rdier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
