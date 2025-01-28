@@ -2,9 +2,9 @@
 
 ## 📊 Languages & Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g8rdier&layout=compact&theme=dark&hide_border=true&private=true&token=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)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g8rdier&layout=compact&theme=dark&hide_border=true&count_private=true&include_all_commits=true&langs_count=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g8rdier&show_icons=true&theme=dark&hide_border=true&private=true&token=DEIN_TOKEN_HIER)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g8rdier&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ## 📈 Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=g8rdier&theme=github-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/g8rdier)
