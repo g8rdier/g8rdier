@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/g8rdier">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=yxxhero&show_icons=true&theme=buefy" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=g8rdier&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/g8rdier">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxhero&layout=compact&show_icons=true&theme=buefy" />
