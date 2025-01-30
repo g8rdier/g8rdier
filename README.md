@@ -6,4 +6,4 @@
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=g8rdier&show_icons=true&theme=dark" />
 </a>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/g8rdier/g8rdier/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/yxxhero/yxxhero/output/github-contribution-grid-snake.svg)
