@@ -11,10 +11,17 @@ jobs:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
     steps:
-      # Fetch contributions and generate snake animation
+      # Check out the repository
+      - uses: actions/checkout@v3
+
+      # Create dist folder
+      - name: Create dist folder
+        run: mkdir -p dist
+
+      # Generate the snake animation
       - uses: Platane/snk@v3
         with:
-          github_user_name: g8rdier  # Replace with your GitHub username
+          github_user_name: g8rdier
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Push the generated SVG to the output branch
