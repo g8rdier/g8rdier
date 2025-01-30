@@ -6,9 +6,5 @@
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=g8rdier&show_icons=true&theme=dark" />
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g8rdier/g8rdier/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g8rdier/g8rdier/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/g8rdier/g8rdier/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/g8rdier/g8rdier/output/github-contribution-grid-snake.svg)
 
