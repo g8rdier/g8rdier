@@ -1,8 +1,6 @@
 # Hi there 👋
 
-## 📊 Languages & Stats
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=g8rdier&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&langs_count=10)
+## 📊 Stats
 
 > "When in doubt, use brute force." — [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 
