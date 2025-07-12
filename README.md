@@ -1,5 +1,7 @@
 ## Hi there 🤘🏼
 
+![](https://komarev.com/ghpvc/?username=g8rdier&color=green)  
+
 > "When in doubt, use brute force." — [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 
 <a href="https://github.com/g8rdier">
