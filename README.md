@@ -16,7 +16,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g8rdier/g8rdier/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/g8rdier/g8rdier/output/github-contribution-grid-snake.svg">
 </picture>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g8rdier&theme=dark" />
-</a>
