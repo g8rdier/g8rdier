@@ -5,10 +5,10 @@
 > "When in doubt, use brute force." — [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 
 <a href="https://github.com/g8rdier">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=g8rdier&show_icons=true&theme=dark&cache_buster=1" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=g8rdier&show_icons=true&theme=dark&cache_seconds=21600" />
 </a>
 <a href="https://github.com/g8rdier">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g8rdier&layout=compact&show_icons=true&theme=dark&cache_buster=1" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g8rdier&layout=compact&show_icons=true&theme=dark&cache_seconds=21600" />
 </a>
 
 <picture>
@@ -18,5 +18,5 @@
 </picture>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g8rdier&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g8rdier&theme=dark&cache_seconds=21600" />
 </a>
